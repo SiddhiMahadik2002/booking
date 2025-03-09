@@ -1,5 +1,5 @@
 .headerMain {
-  padding: 20px 50px;
+  padding: 20px 75px;
   display: flex;
   justify-content: space-between;
 }
@@ -24,6 +24,7 @@
   border: 1px solid var(--borderColor);
   border-radius: var(--radiusLarge);
   display: flex;
+  justify-content: space-between;
   align-items: center;
   padding: 6px 8px;
 }
